@@ -1,0 +1,13 @@
+{
+  "name": "crearts-mailspring",
+  "title": "CreArts",
+  "displayName": "CreArts",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "A great dark theme to start your own themes.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
