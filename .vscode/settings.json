@@ -3,28 +3,6 @@
 // ╚══════════════════════════╩═════════════════════════════════════════════════════════════════════════════════════════╝
 
 {
-  // Plugins | Live Sass Compiler
-  "liveSassCompile.settings.generateMap": false,
-  "liveSassCompile.settings.watchOnLaunch": true,
-  "liveSassCompile.settings.autoprefix": ["defaults"],
-  "liveSassCompile.settings.showOutputWindowOn": "Error",
-  "liveSassCompile.settings.formats": [
-    {
-      "format": "compressed",
-      "extensionName": ".css",
-      "savePath": null
-    }
-  ],
-  "liveSassCompile.settings.includeItems": [
-    "/dev.scss",
-    "/src/source.scss",
-    "/modules/custom/icons.scss",
-    "/modules/custom/private.scss",
-    "/modules/custom/server.scss",
-    "/modules/custom/user.scss",
-    "/modules/custom/tags.scss"
-  ],
-
   // Plugins | Prettier
   "prettier.printWidth": 124,
 
